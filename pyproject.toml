@@ -22,7 +22,7 @@ dependencies = [
     "pydantic>=2",
     "pydantic-settings>=2",
     "tomli>=2; python_version < '3.11'",
-    "PyYAML>=6"
+    "PyYAML>=6.0.3"
 ]
 authors = [
     { name = "Faerkeren" },
