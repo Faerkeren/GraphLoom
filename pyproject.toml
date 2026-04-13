@@ -45,7 +45,7 @@ Changelog = "https://github.com/GraphRapids/GraphLoom/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 dev = [
-    "pytest>=8",
+    "pytest>=9.0.3",
 ]
 
 [tool.setuptools]
